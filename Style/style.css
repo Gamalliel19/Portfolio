@@ -1,0 +1,75 @@
+@import 'http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css';
+.navbar{
+    background-color: #222;
+}
+.navbar-brand{
+    color: #66B933;
+}
+.nav-item{
+    color: #A9A9A9;
+}
+.navbar-toggler{
+    background-color: #313131;
+}
+
+body{
+    background-color: #222;
+    color: white;
+}
+
+
+.box a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    float: left;
+    transition: 0.5s all;
+    cursor: pointer;
+  }
+  .fb{
+    background:#2980b9;
+  }
+  .tw{
+    background:#3498db;
+  }
+  .yb{
+    background:#487eb0;
+  }
+  .wp{
+    background:#313131;
+  }
+  .im{
+    background: #9c88ff;
+  }
+  .gm{
+      background: red;
+  }
+  .box a:hover{
+    margin-top: -10px;
+  }
+  .navbar-brand:hover{
+      color: #66B933;
+  }
+  .nav-item:hover{
+      color: white;
+  }
+  
+  footer{
+      background-color: #222;
+      color: #A9A9A9;
+  }
+
+
+
+
+
+
+
+
+ 
